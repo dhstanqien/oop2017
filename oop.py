@@ -100,7 +100,7 @@ class Staff(Person):
         print(self.dept)
 
 # main
-#p1 = Person(1, "Tom", 70, 1.75)
-student1 = Student(1, "Tom", 70, 1.75, "17Y5C33")
-#p2 = Person(2, "Mary", 50, 1.60)     
-staff1 = Staff(1, "Mr Pang", 65, 1.63, "Math")
+#p1 = Person(1, "Tom", 60, 1.75)
+student1 = Student(1, "Tom", 60, 1.75, "17Y5C33")
+#p2 = Person(2, "Mary", 80, 1.60)     
+staff1 = Staff(1, "Mr Pang", 70, 1.60, "Math")
